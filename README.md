@@ -22,3 +22,5 @@ Corresponding to how you would call psql (with host, port, username, password
 and the target database).
 
 Not formally tested! Only battle tested. (Until i have the time). 
+
+This would also be an interesting opportunity to try and learn how to write an async service in Python. 
